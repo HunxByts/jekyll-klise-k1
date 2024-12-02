@@ -1,7 +1,7 @@
 # Site settings
 title: Blog K1llu # site title
 description: >- # site description
-  Hai, Selamat datang di web blog k1llu, disini k1llu ingin membagikan hal hal septar Cyber Security. <a href="https://github.com/HunxByts" target="_blank" rel="noopener">@github</a>.
+  Hai, Selamat datang di web blog k1llu, disini k1llu ingin membagikan hal hal seputar Cyber Security. <a href="https://github.com/HunxByts" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: Asia/Makasar # set your timezone
 image: assets/img/killua zoldyck_.jpeg # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Bang K1llu # author name
   bio: >- # tell to the world
-    Hai, Selamat datang di web blog k1llu, disini k1llu ingin membagikan hal hal septar Cyber Security. <a href="https://github.com/HunxByts" target="_blank" rel="noopener">@github</a>.
+    Hai, Selamat datang di web blog k1llu, disini k1llu ingin membagikan hal hal seputar Cyber Security. <a href="https://github.com/HunxByts" target="_blank" rel="noopener">@github</a>.
   username: K1llu # general username
   github: HunxByts # github username
   #twitter:   #twitter username
